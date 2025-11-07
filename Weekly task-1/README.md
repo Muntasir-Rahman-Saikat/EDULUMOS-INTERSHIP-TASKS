@@ -1,1 +1,1 @@
-Smart Study Score Predictor – Learn the Power of Regression
+# **Smart Study Score Predictor – Learn the Power of Regression**
